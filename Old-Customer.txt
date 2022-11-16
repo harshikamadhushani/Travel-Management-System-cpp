@@ -1,0 +1,28 @@
+
+ Customer ID: 1
+ Name: Harshika
+ Age: 24
+ Gender: Female
+ Phone Number: 769386834
+ Address: Galle
+
+ Customer ID: 2
+ Name: Algama
+ Age: 52
+ Gender: Male
+ Phone Number: 772667235
+ Address: Matara
+
+ Customer ID: 3
+ Name: Suneetha
+ Age: 53
+ Gender: Female
+ Phone Number: 763508997
+ Address: Hiyare
+
+ Customer ID: 4
+ Name: Nishshanka
+ Age: 25
+ Gender: Male
+ Phone Number: 775176236
+ Address: Hiyare
